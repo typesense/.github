@@ -4,7 +4,7 @@
 
 ## Steps to reproduce
 
-<!--- Include screenshots, curl commands (please use the -sv flags for curl), etc -->
+<!--- Include screenshots, curl commands (please use the -sv flags for curl and also post the output), etc -->
 
 ## Expected Behavior
 
@@ -16,6 +16,6 @@
 
 ## Metadata
 
-**Typsense Version**:
+**Typesense Version**:
 
 **OS**:
